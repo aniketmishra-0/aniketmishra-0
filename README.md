@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer, React.js Developer & APIs, Cloud Computing from Pune, India.</h3>
 
 <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=aniketmishra0&label=Profile%20views&color=0e75b6&style=flat" alt="aniketmishra0" />
+      <img src="https://komarev.com/ghpvc/?username=aniketmishra0&label=Profile%20views&color=0e75b6&style=flat" alt="aniketmishra-0" />
       <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/aniketmishra0?style=social"> 
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/aniketmishra0?style=social">
 </div>
