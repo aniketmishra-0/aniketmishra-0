@@ -11,7 +11,7 @@
 <h2 align="left">Who am I<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
 - 💻 I am currently working as a Freelance Frontend Developer & Open-Sourcer.
-- 👨‍💻 All of my projects are available at [https://www.imaniket.live](https://www.imaniket.live)
+- 👨‍💻 All of my projects are available at [https://www.imaniket.in](https://www.imaniket.in)
 - 💬 Ask me about **javascript, Cloud Computing, Reactjs, APIs & Open-Sourcer**
 - 📄 Know about my experiences [https://www.linkedin.com/in/aniketmishra0/](https://www.linkedin.com/in/aniketmishra0/)
 
